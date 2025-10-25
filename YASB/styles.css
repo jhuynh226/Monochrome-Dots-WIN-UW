@@ -315,10 +315,6 @@ QToolTip {
     color: #F05C00;
 }
 
-.gpu-widget {
-    padding-left: 0px;
-}
-
 .gpu-widget .icon {
     color: #76b900;
 }
