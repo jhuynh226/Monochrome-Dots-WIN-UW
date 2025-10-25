@@ -1,8 +1,8 @@
 # Monochrome Windows Rice for UltraWide
 
-Custom **tiling window manager** and **status bar** setup for my ultrawide Windows machine, built primarily with **Komorebi** and **YASB**.
+Custom tiling window manager and status bar setup for my ultrawide Windows machine, built primarily with **Komorebi** and **YASB**.
 
-> [Linux Mint + i3 configuration](https://github.com/jhuynh226/Monochrome-Dots-i3).
+> [Linux Mint + i3 configuration](https://github.com/jhuynh226/Monochrome-Dots-i3)
 
 ---
 
@@ -16,11 +16,12 @@ Custom **tiling window manager** and **status bar** setup for my ultrawide Windo
 ## Tools Used
 - **[Komorebi](https://github.com/LGUG2Z/komorebi)** — Tiling window manager for Windows  
 - **[YASB](https://github.com/amnweb/yasb)** — Yet Another Status Bar  
-- **[Fastfetch](https://github.com/fastfetch-cli/fastfetch)** — System information fetcher
+- **[Fastfetch](https://github.com/fastfetch-cli/fastfetch)** — System information fetcher  
+- **[Cava](https://github.com/karlstav/cava)** — Audio visualizer for terminal + yasb
 
 ---
 
-## Setup
-If you want others (or future you) to replicate this:
-1. Install the tools above.
-2. Clone this repo and place configs in:
+## Notes
+1. If the weather widget isn't working in Yasb replace the api key.
+2. In yasb for right side modules I have labels commented out that use icons instead of descriptors.
+3. Replace the file path for source in FastFetch.
