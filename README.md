@@ -7,7 +7,7 @@ Custom tiling window manager and status bar setup for my ultrawide Windows machi
 ---
 
 ## Preview
-[![Watch the video](https://img.youtube.com/vi/5q9TzG-6OR0/maxresdefault.jpg)](https://youtu.be/5q9TzG-6OR0)
+https://github.com/jhuynh226/Monochrome-Windows-Rice/raw/main/Screenshots/demo.mp4
 ![Full Terminal View](./Screenshots/Full%20Screen%20Terminal%20Photo.png)
 ![Media Browsing](./Screenshots/Media%20Browsing.png)
 ![Terminal + VSCode](./Screenshots/Terminal%20+%20VsCode.png)
