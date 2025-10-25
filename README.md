@@ -38,4 +38,4 @@ Custom tiling window manager and status bar setup for my ultrawide Windows machi
 ## Notes
 - If the weather widget isn't working in Yasb replace the api key
 - For the right side modules in Yasb I have labels commented out that use icons instead of descriptors
-- Replace the file path for source in FastFetch
+- Replace the file path for source in FastFetch with path to your txt file
