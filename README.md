@@ -29,7 +29,7 @@ Custom tiling window manager and status bar setup for my ultrawide Windows machi
    git clone https://github.com/jhuynh226/Monochrome-Windows-Rice.git
 
 3. Each tool should have its own configuration directory under your user profile
-- **Komorebi config files are stored directly in the user profile by default (not inside .config)
+   -Komorebi config files are stored directly in the user profile by default (not inside .config)
 
 5. Place respective config files from git clone into each tool's directory
 
