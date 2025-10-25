@@ -12,4 +12,4 @@ My personal Windows setup to please the eyes
 - **[Yasb](https://github.com/amnweb/yasb)**
 - **[Fastfetch](https://github.com/fastfetch-cli/fastfetch)**
 
-> **PowerToys Run** for the spotlight feature
+> **PowerToys Run** for spotlight feature
