@@ -1,6 +1,6 @@
 # Monochrome Windows Rice for UltraWide
 
-My personal Windows config
+My Windows config
 
 ## Preview
 ![Preview](./Screenshots/Full%20Screen%20Terminal%20Photo.png)
