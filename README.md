@@ -12,4 +12,4 @@ My Windows config
 - **[Yasb](https://github.com/amnweb/yasb)**
 - **[Fastfetch](https://github.com/fastfetch-cli/fastfetch)**
 
-> **PowerToys Run** for spotlight feature
+> [Link](https://github.com/jhuynh226/Monochrome-Dots-i3) to my Linux Mint + i3 configuration 
