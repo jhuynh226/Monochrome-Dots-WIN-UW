@@ -2,7 +2,7 @@
 
 Custom **tiling window manager** and **status bar** setup for my ultrawide Windows machine, built primarily with **Komorebi** and **YASB**.
 
-> Also check out my [Linux Mint + i3 configuration](https://github.com/jhuynh226/Monochrome-Dots-i3).
+> [Linux Mint + i3 configuration](https://github.com/jhuynh226/Monochrome-Dots-i3).
 
 ---
 
