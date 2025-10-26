@@ -20,16 +20,16 @@ Custom tiling window manager and status bar setup for my ultrawide Windows machi
 ---
 
 ## Installation
-1. Install the tools via winget or github
+1. Install dependencies via winget or github
 
 2. Clone this repository: 
    ```powershell
    git clone https://github.com/jhuynh226/Monochrome-Windows-Rice.git
 
-3. Each tool should have its own configuration directory under username/.config
-      - Komorebi config files are stored in user profile by default (not inside .config)
+3. Each tool should have its own configuration directory under users/username/.config
+   - Komorebi config files are stored in users/username by default (not inside .config)
 
-5. Place respective config files from git clone into each tool's directory
+4. Place respective config files from git clone into each tool directory
 
 ---
 
