@@ -7,7 +7,7 @@ Custom tiling window manager and status bar setup for my ultrawide Windows machi
 ---
 
 ## Preview
-![Demo Gif](./Screenshots/demo.gif)
+![Demo Gif](./Screenshots/demo2.gif)
 
 ---
 
