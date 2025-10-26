@@ -8,7 +8,6 @@ Custom tiling window manager and status bar setup for my ultrawide Windows machi
 
 ## Preview
 ![Demo Gif](./Screenshots/demo.gif)
-![Full Terminal View](./Screenshots/Full%20Screen%20Terminal%20Photo.png)
 ![Media Browsing](./Screenshots/Media%20Browsing.png)
 ![Terminal + VSCode](./Screenshots/Terminal%20+%20VsCode.png)
 
