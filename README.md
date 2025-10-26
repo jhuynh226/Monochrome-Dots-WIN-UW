@@ -1,6 +1,6 @@
 # Monochrome Windows Rice for UltraWide
 
-Custom tiling window manager and status bar setup for my ultrawide Windows machine, built primarily with **Komorebi** and **YASB**.
+Custom tiling window manager and status bar setup for my ultrawide Windows machine, built primarily with **Komorebi** and **YASB**. Pretty cool right.
 
 > [Linux Mint + i3 configuration (Non UW)](https://github.com/jhuynh226/Monochrome-Dots-i3)
 
